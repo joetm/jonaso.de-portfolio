@@ -50,8 +50,8 @@ var init_map = function () {
     //map
     L.Icon.Default.imagePath = './js/vendor/leaflet/images';
     var grayIcon = L.icon({
-        iconUrl: 'http://www.jonaso.de/portfolio/src/js/vendor/leaflet/images/marker-icon-gray.png',
-        shadowUrl: 'http://www.jonaso.de/portfolio/src/js/vendor/leaflet/images/marker-shadow.png',
+        iconUrl: 'https://www.jonaso.de/portfolio/src/js/vendor/leaflet/images/marker-icon-gray.png',
+        shadowUrl: 'https://www.jonaso.de/portfolio/src/js/vendor/leaflet/images/marker-shadow.png',
         iconSize:     [18, 30], // size of the icon
         shadowSize:   [30, 30], // size of the shadow
         iconAnchor:   [9, 30], // point of the icon which will correspond to marker's location

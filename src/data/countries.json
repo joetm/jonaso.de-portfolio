@@ -1,6 +1,7 @@
 [
     {"city": "Karlsruhe", "country": "Germany", "lat": 49.0038517, "lng": 8.360532, "start": "2021-04-15", "end": "2021-08-31"},
-    {"city": "Oulu", "country": "Finland", "lat": 65.0594, "lng": 25.4662, "start": "2018-05-01", "end": "2021-04-14"},
+    {"city": "Helsinki", "country": "Finland", "lat": 60.165542, "lng": 24.9396193, "start": "2021-02-27", "end": "2021-04-14"},
+    {"city": "Oulu", "country": "Finland", "lat": 65.0594, "lng": 25.4662, "start": "2018-05-01", "end": "2021-02-26"},
     {"city": "Berlin", "country": "Germany", "lat": 52.5165594, "lng": 13.4024865},
     {"city": "Bern", "country": "Switzerland", "lat": 46.9478958, "lng": 7.4476222, "start": "2016-05-01", "end": "2016-07-31"},
     {"city": "Eastleigh", "country": "United Kingdom", "lat": 50.972773, "lng": -1.332390, "start": "2015-10-05", "end": "2016-04-30"},

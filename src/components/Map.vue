@@ -40,12 +40,12 @@ var init_map = function () {
         tiles = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
             attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
         }),
-        latlng = L.latLng(51, 4),
+        latlng = L.latLng(55, 10),
         i = 0,
         first = true,
         map = L.map('location-map', {
             center: latlng,
-            zoom: 4,
+            zoom: 3,
             layers: [tiles]
         }),
         popup,
