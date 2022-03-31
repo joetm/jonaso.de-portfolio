@@ -4,6 +4,7 @@
 		<div class="row">
 			<div class="xcol-lg-12 text-center">
 				<h2>O&ugrave; est Jonas?</h2>
+                <div style="color:white">One of the most useful things you can do is spending an extended period of time abroad.</div>
 				<h3><span id="years_abroad">{{ years_abroad }}</span> years of international experience</h3>
 			</div>
 		</div>

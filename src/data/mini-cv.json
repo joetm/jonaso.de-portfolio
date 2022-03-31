@@ -123,5 +123,14 @@
         "orglink": "https://aifb.kit.edu/web/Jonas_Oppenl%C3%A4nder",
         "description": "Responsible for the design, implementation, population, and management of the NFDI4Culture knowledge graph as part of the NFDI4Culture initiative on research data infrastructures for material and immaterial cultural heritage in Germany.",
         "img": "./static/img/karlsruhe-faecher-2.jpg"
+    },
+    {
+        "_id": "15",
+        "dates": "2022",
+        "title": "Postdoctoral Researcher",
+        "organisation": "University of Jyväskylä",
+        "orglink": "https://www.jyu.fi/it/fi/tiedekunta/henkilosto/henkilosto/oppenlander-jonas",
+        "description": "",
+        "img": "./static/img/gan-jyvaskyla.jpg"
     }
 ]

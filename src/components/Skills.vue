@@ -22,7 +22,6 @@
 </template>
 
 <script>
-
 var skills = require("../data/knowledge.json");
 
 // equal height for the descriptions
@@ -41,7 +40,7 @@ $(function () {
 export default {
   data () {
     return {
-      skills: skills
+      skills: skills.filter(skill => skill.title ? skill : false)
     }
   }
 }
