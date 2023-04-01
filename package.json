@@ -23,7 +23,7 @@
     "bootstrap-loader": "^1.0.10",
     "extract-text-webpack-plugin": "^1.0.1",
     "font-awesome": "^4.6.3",
-    "jquery": "^2.2.4",
+    "jquery": "^3.5.0",
     "json-loader": "^0.5.4",
     "node-sass": "^6.0.1",
     "resolve-url-loader": "^1.4.3",
